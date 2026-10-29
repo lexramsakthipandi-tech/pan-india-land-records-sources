@@ -1,0 +1,6 @@
+{
+  "name": "NyayaBhumi — Pan-India Property Legal Scrutiny & Land Record Due Diligence",
+  "description": "Comprehensive pan-India property title verification, land records portal directory, central & state tenure laws, RERA project scrutiny, bank search reports, and decision rule engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
